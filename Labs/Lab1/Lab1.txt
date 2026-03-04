@@ -1,0 +1,9 @@
+For Lab 2, I plan to work on a machine learning project using the bnpl_dataset.csv. My goal is to use this "Buy Now, Pay Later" data to figure out if we can predict credit risks effectively.
+
+Since the dataset is focused on whether a user will successfully make their payments or default, I’ll be treating this as a Classification problem. The target variable is the payment status, and the model will learn from features like loan amounts, installment terms, and user demographics to make its predictions.
+
+In the lab, I will start by setting up a Jupyter Notebook and using the Pandas library to load the dataset. I'll spend some time inspecting the data—specifically checking the shape of the dataframe, looking at the first few rows to understand the structure, and verifying that the column names and data types are correct for analysis.
+
+I also plan to design a methodology diagram to map out the entire workflow. This will cover everything from the initial data loading and preprocessing (like handling any missing values) to splitting the data into training and testing sets. From there, I'll outline the model training process and how I intend to evaluate the results to see how well the model actually performs.
+
+Everything will be documented and uploaded to my GitHub repository, including the final summary, the notebook, and the methodology diagram.
